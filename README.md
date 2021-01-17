@@ -1,0 +1,1 @@
+Solutions are in corresponding folders
