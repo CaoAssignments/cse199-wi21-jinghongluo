@@ -14,13 +14,19 @@ public class Solution {
 		}
         
         int minDis = Integer.MAX_VALUE;
+
+		// try every possible room.
         for(int i = 0; i < n; i++){
             int curDis = 0;
             int counter = 1;
+
+			// iterate through our cows arr in a circular fashion.
             for(int j =i+1; j % n != i; j++){
                 curDis += cows[j%n] * counter;
                 counter++; 
             }
+
+			// compute the min every time.
             minDis = Math.min(minDis, curDis);
         }
 
