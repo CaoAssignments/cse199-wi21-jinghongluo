@@ -1,8 +1,19 @@
 # Problems Done So Far
 
+## 2013 
+#### Problem 1: Blink
+http://www.usaco.org/index.php?page=viewproblem2&cpid=279
+
+##### Tags: Array, Nested For Loop.
+
+#### Problem 2: Photo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=280
+
+##### Tags: Array, Nested Loop.
+
 ## 2016 Feb
 #### Problem 1: Milk Pails
-http://www.usaco.org/index.php?page=viewproblem2&cpid=617
+http://www.usaco.org/index.php?page=viewproblem2&cpid=615
 
 ##### Tags: Array, I/O, Nested Loop, Divide and Conquer
 
